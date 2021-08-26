@@ -16,17 +16,29 @@ IDE: Visual Studio Code
 
 WORKFLOW/FLAGS are as follows
 *FLAG 1: removing spaces (rs) present in the file given.
+
 *FLAG 2: removing newline (rn) present in the file given.
+
 *FLAG 3: removing specific characters or words (rsw) followed by % ,present in the file given.
+
 *FLAG 4: putting serialised (s) numbering in front of all the lines present in the file given.
+
 *FLAG 5: putting serialised (sn) numbering in front of all the non-empty lines present in the file given.
+
 *FLAG 6: removing extra or redundant line (rel) present in the file given.
+
 *FLAG 7: displaying content inside multiple files (dcf).
+
 *FLAG 8: sorting (st) content(A->Z order) present inside the files given. 
-*FLAG 9: appending multiple files in a single file (af) 
+
+*FLAG 9: appending multiple files in a single file (af) .
+
 *FLAG 10: clearing file (cf) contents of the given file/files.
-*FLAG 11: deleting file (df) i.e passed through commands
+
+*FLAG 11: deleting file (df) i.e passed through commands.
+
 *FLAG 12: removing special characters (rsc) except Alphabets,Digits and spaces. ,present in the file given.
+
 *FLAG 13: removing all extra/empty lines except 1 (rel1) empty line after every non-empty line present in the file given.
 
 Feedbacks are highly entertained:
