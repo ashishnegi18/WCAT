@@ -1,0 +1,3 @@
+A Rough Text file
+
+That is subjected to perform clear data and delete file command.
