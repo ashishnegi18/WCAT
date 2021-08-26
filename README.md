@@ -29,7 +29,5 @@ WORKFLOW/FLAGS are as follows
 *FLAG 12: removing special characters (rsc) except Alphabets,Digits and spaces. ,present in the file given.
 *FLAG 13: removing all extra/empty lines except 1 (rel1) empty line after every non-empty line present in the file given.
 
-Link of Github Repository: 
-
 Feedbacks are highly entertained:
 https://www.linkedin.com/in/ashishnegi10/
